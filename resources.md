@@ -24,7 +24,7 @@ Here are some resources that will help you be successful in this class.
 
 ## Software
 
-
+ 
 
 
 ## Tools and Tutorials
