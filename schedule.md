@@ -4,11 +4,20 @@ title: Schedule
 permalink: /schedule/
 ---
 
-This page is a tentative schedule of assignments and activities for the semester.
+This page is a _tentative schedule_ of assignments and activities for the semester. Generally speaking, each week will follow a similar format like so:
 
-#### Week 1 (August Something)
+- **Monday:** Workshops and critiques for the previous weeks' project
 
-#### Week 2 (August Something)
+- **Wednesday:** Introduction of a new concept, tool, programming language, etc.
 
-#### Week 3 (August Something)
+- **Friday:** In-class exercises and work on your weekly project
+
+
+
+### Week 1 
+
+
+### Week 2 
+
+### Week 3 
 
