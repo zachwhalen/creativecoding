@@ -19,7 +19,12 @@ img.rt {
 
 body {
 
-  backgroung-image: url(/creativecoding/images/jazz.jpg);
+  background-image: url(/creativecoding/images/jazz.jpg);
+  background-attachment: attached;
+}
+
+li {
+  clear:left;
 }
 
 /**************/
