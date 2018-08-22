@@ -16,13 +16,13 @@ In this class you'll be completing several smaller projects throughout the semes
 
 ## Project: Make something Weird with Neural Networks
 
-## Project: Generate a Novel
+## Project: Prose: Generate a Novel
 
 ## Project: Imagery 
 
 ## Project: Animation
 
-## Project: Interactivity
+## Project: Glitch Art
 
 ## Project: Point and Click
 

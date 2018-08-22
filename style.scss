@@ -19,8 +19,8 @@ img.rt {
 
 body {
 
-  background-image: url(/creativecoding/images/jazz.jpg);
-  background-attachment: attached;
+  background-image: url(/creativecoding/images/jazz.jpg) !important;
+  background-attachment: fixed;
 }
 
 li {

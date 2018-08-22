@@ -12,7 +12,7 @@ This page is a _tentative schedule_ of assignments and activities for the semest
 
 - **Friday:** In-class exercises and work on your weekly project
 
-
+_an idea: weekly awards or something based on their votes for each others' projects._
 
 ### Week 1 
 
