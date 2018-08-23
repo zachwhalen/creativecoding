@@ -31,7 +31,7 @@ NO CLASS BECAUSE IT'S LABOR DAY
 ### Wednesday, September 5
 
 ### Friday, September 7
-** Remix Projects Due**
+**_Remix Projects Due_**
 
 ## Week 3 
 ### Monday, September 10
@@ -43,7 +43,7 @@ NO CLASS BECAUSE IT'S LABOR DAY
 ### Monday, September 17
 ### Wednesday, September 19
 ### Friday, September 21
-** Bot Projects Due**
+**_Bot Projects Due_**
 
 ## Week 5
 ### Monday, September 24
