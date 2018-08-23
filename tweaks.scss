@@ -15,4 +15,6 @@ body.layout--posts ul.taxonomy__index, h2.archive__subtitle {
 }
 
 /* remove depth on schedule toc */
-
+body.schedule nav.toc ul li ul {
+	display: none;
+}
