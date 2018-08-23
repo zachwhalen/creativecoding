@@ -21,7 +21,7 @@ View, run, or modify as a [Jupyter Notebook](/examples/Remix&20Poetry.ipynb) or 
 
 Sample output:
 
-<pre>placid skiff
+<blockquote><pre>placid skiff
 considerable youth
 
 new month
@@ -32,7 +32,7 @@ good reality
 
 only map
 guilty night
-</pre>
+</pre></blockquote>
 
 ## Project: Bot
 Make a bot for Twitter or Mastadon. It can be text or image-based, but it should be meaningful in some way. I suggest using Cheap Bots Done Quick, but might also want to consider [Tweepy](http://www.tweepy.org/) or a hosted bot with [Glitch.com](http://www.glitch.com), bearing in mind that Twitter's API constraints may make this route untenable.
@@ -41,6 +41,11 @@ If you want your bot to live in Mastadon, I recommend the [botsin.space](http://
 
 ### Criteria
 
+### Example: Bots with CBDQ
+
+The Twitter account, [@RRAAAAARRL](http://www.twitter.com/RRAAAAARRL), is a bot that tries to sound like [monsters from old comic books](http://comicbookplus.com/?dlid=12518). I made it in CBDQ, so you can [view the source there](https://cheapbotsdonequick.com/source/RRAAAAARRL), or if you prefer, [as a JSON file](rraaaaarrl.json). There's not much to it.
+
+[@HouseBudgets](http://www.twitter.com/housebudgets) is also a [CBDQ bot](https://cheapbotsdonequick.com/source/HouseBudgets), with some more complicated things going on [in the code](/examples/housebudgets.json).
 
 ## Project: More Poetry? Oh, Noetry!
 
