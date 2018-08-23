@@ -8,3 +8,8 @@ img.rt {
 li {
   clear:left;
 }
+
+/* this is an odd workaround for moving the posts page off the home */
+body.layout--posts ul.taxonomy__index, h2.archive__subtitle {
+	display: none;
+}
