@@ -1,6 +1,4 @@
 ---
-layout: single
+layout:home
 author_profile: false
 ---
-
-Content here

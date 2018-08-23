@@ -8,16 +8,16 @@ Here are some resources that will help you be successful in this class.
 
 ## Books
 
-### Required
+<h3 style="clear:left">Required</h3>
 
 <img class="rt" src="{{ site.baseurl }}/images/virtualmuse.jpg" alt="Virtual Muse Cover" /> Hartman, Charles O. _Virtual Muse: Experiments in Computer Poetry_. 1st edition, Wesleyan, 1996.
 
-### Not a Book but Required
+<h3 style="clear:left">Not a Book but Required</h3>
 
 <img class="rt" src="{{ site.baseurl }}/images/coding-train.jpg" alt="Coding Train Logo" /> Shiffman, Daniel. _Coding Train_. YouTube, <a href="https://www.youtube.com/thecodingtrain">https://www.youtube.com/thecodingtrain</a>.
 
 
-### A Helpful Book But It's Not Required
+<h3 style="clear:left">A Helpful Book But It's Not Required</h3>
 You might have this book already from DGST 395. Or, if you'll be taking 395 in the future, may as well get this book now.
 
 <img class="rt" src="{{ site.baseurl }}/images/ep.jpg" alt="Exploratory Programming Cover" /> Montfort, Nick. _Exploratory Programming for the Arts and Humanities_. 1st edition, The MIT Press, 2016.
