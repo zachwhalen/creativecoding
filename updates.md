@@ -4,5 +4,3 @@ author_profile: false
 permalink: /updates/
 ---
 
-# Updates
-
