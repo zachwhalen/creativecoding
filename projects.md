@@ -1,28 +1,22 @@
 ---
-layout: page
+layout: single
 title: Projects
 permalink: /projects/
 ---
 
 In this class you'll be completing several smaller projects throughout the semester -- about one per week -- and then you'll select and revise your best work to include in a final portfolio.
 
-## Project: Remix Poetry
+## Project: Remix
 
-## Project: Create a Twitter Bot
+## Project: Bot
 
-## Project: Make Poetry
+## Project: Poetry
 
-## Project: Make More Poetry
+## Project: NaNoGenMo
 
-## Project: Make something Weird with Neural Networks
+## Project: Glitch  
 
-## Project: Prose: Generate a Novel
+## Project: Screensaver
 
-## Project: Imagery 
-
-## Project: Animation
-
-## Project: Glitch Art
-
-## Project: Point and Click
+## Project: Clock
 

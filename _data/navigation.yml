@@ -4,6 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about
+  - title: "Updates"
+    url: /updates
   - title: "Schedule"
     url: /schedule
   - title: "Resources"
@@ -12,8 +14,7 @@ main:
     url: /projects
   - title: "Roster"
     url: /roster
-  - title: "Credits"
-    url: /credits
+
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
