@@ -2,6 +2,7 @@
 layout: single
 title: About this Class
 permalink: /about/
+toc: true
 ---
 
 This class is a brand-new Digital Studies elective at the University of Mary Washington. This website -- hosted in Github pages -- is intended to provide information and coordination for students. It is, of course, also open here for anyone to browse, examine, or adapt this content.
@@ -22,6 +23,7 @@ This page is also officially the syllabus for this class.
 
 ## Overview
 
+"Creative Coding” means doing interesting things with computers by writing instructions that make the computer create something. In this class, that something will be poetry, literature, graphic art, music, and anything else you can think of to make it create. We will look at the history of these genres for the ways artists have experimented with code, but this class will emphasize producing original creative work. No prior experience with programming is required, and to some extent, this class may serve as a general introduction to programming — with the caveat that the things you learn how to make for this class will be rigorously impractical. That said, a basic comfort level with code and generally getting along with avant-garde poetics may be helpful. Primarily, we’ll be making things with Processing and P5.js. This class is an elective for the Communication and Digital Studies Major or the Minor in Digital Studies.
 
 ## Learning Outcomes
 It is my hope that, by completing this course, successful students will:

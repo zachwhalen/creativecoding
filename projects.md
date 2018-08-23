@@ -17,7 +17,7 @@ I encourage you to use books from [Project Gutenberg](http://www.gutenberg.org) 
 
 ### Example: Frankenpoem
 
-View, run, or modify as a [Jupyter Notebook](/examples/Remix&20Poetry.ipynb) or a [Python 3 Script](/examples/remix-poetry.py).
+View, run, or modify as a [Jupyter Notebook](/examples/Franken&20Poetry.ipynb) or a [Python 3 Script](/examples/frankenpoetry.py).
 
 Sample output:
 
