@@ -17,7 +17,7 @@ I encourage you to use books from [Project Gutenberg](http://www.gutenberg.org) 
 
 ### Example: Frankenpoem
 
-View, run, or modify as a [Jupyter Notebook](/examples/Franken&20Poetry.ipynb) or a [Python 3 Script](/examples/frankenpoetry.py).
+View, run, or modify as a [Jupyter Notebook](https://github.com/zachwhalen/creativecoding/blob/master/examples/Franken%20Poetry.ipynb) or a [Python 3 Script](https://github.com/zachwhalen/creativecoding/blob/master/examples/frankenpoetry.py).
 
 Sample output:
 
@@ -43,9 +43,9 @@ If you want your bot to live in Mastadon, I recommend the [botsin.space](http://
 
 ### Example: Bots with CBDQ
 
-The Twitter account, [@RRAAAAARRL](http://www.twitter.com/RRAAAAARRL), is a bot that tries to sound like [monsters from old comic books](http://comicbookplus.com/?dlid=12518). I made it in CBDQ, so you can [view the source there](https://cheapbotsdonequick.com/source/RRAAAAARRL), or if you prefer, [as a JSON file](rraaaaarrl.json). There's not much to it.
+The Twitter account, [@RRAAAAARRL](http://www.twitter.com/RRAAAAARRL), is a bot that tries to sound like [monsters from old comic books](http://comicbookplus.com/?dlid=12518). I made it in CBDQ, so you can [view the source there](https://cheapbotsdonequick.com/source/RRAAAAARRL), or if you prefer, [as a JSON file](https://github.com/zachwhalen/creativecoding/blob/master/examples/rraaaaarrl.json). There's not much to it.
 
-[@HouseBudgets](http://www.twitter.com/housebudgets) is also a [CBDQ bot](https://cheapbotsdonequick.com/source/HouseBudgets), with some more complicated things going on [in the code](/examples/housebudgets.json).
+[@HouseBudgets](http://www.twitter.com/housebudgets) is also a [CBDQ bot](https://cheapbotsdonequick.com/source/HouseBudgets), with some more complicated things going on [in the code](https://github.com/zachwhalen/creativecoding/blob/master/examples/housebudgets.json).
 
 ## Project: More Poetry? Oh, Noetry!
 
