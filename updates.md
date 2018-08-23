@@ -1,7 +1,7 @@
 ---
 layout: posts
 author_profile: false
-permalink: /schedule/
+permalink: /updates/
 ---
 
 This page should show you the recent updates.
