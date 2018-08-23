@@ -2,6 +2,7 @@
 layout: single
 title: Schedule
 permalink: /schedule/
+toc: true
 ---
 
 This page is a _tentative schedule_ of assignments and activities for the semester. 
