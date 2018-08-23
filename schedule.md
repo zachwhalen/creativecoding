@@ -3,8 +3,7 @@ layout: single
 title: Schedule
 permalink: /schedule/
 toc: true
-kramdown:
-  toc_levels: 1..2
+bodyclass: schedule
 ---
 
 This page is a _tentative schedule_ of assignments and activities for the semester. 
