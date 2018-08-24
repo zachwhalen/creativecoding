@@ -18,3 +18,10 @@ body.layout--posts ul.taxonomy__index, h2.archive__subtitle {
 body.schedule nav.toc ul li ul {
 	display: none;
 }
+
+/* Seeing if fa works like this */
+
+body.schedule h3:before {
+	content: '\f073';
+	font-family: FontAwesome;
+}
