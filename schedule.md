@@ -3,6 +3,7 @@ layout: single
 title: Schedule
 permalink: /schedule/
 toc: true
+toc_label: Week by Week
 bodyclass: schedule
 ---
 
@@ -13,27 +14,42 @@ This page is a _tentative schedule_ of assignments and activities for the semest
 ### Monday, August 27
 This is the first day of class! We'll go over the class goals and structure, and you'll attempt your first creative coding project.
 
+#### Key Questions
+ * Creativity?
+ * Code?
+
 #### In-Class Project: 
- * Remix Poetry
+ * Remix a webpage
 
 #### Homework: 
  * Sign up for Github
- * Join the Slack
- * Complete your first poem and also another one
+ * Join the [Slack](http://creativecodersatumw.slack.com)
+ * Complete your webpage remix and also try another one
+ * Fill out the [student information survey](https://airtable.com/shrxeWOPmYxBTdTFs) if you haven't already
 <!-- demo a few things of the sort they'll be making this semester. Maybe one for each project type we're doing. -->
 
 ### Wednesday, August 29
+Getting to know your computer and getting started with Python.
+
+#### Key Tasks
+ * Set up your coding environment on your computer and/or in the cloud.
+
+#### Homework
+ * Keep working on and getting to know Python. If you have the _Exploratory Programming_ book, take a look at the first 2 or 3 chapters. If you'd prefer to learn from a web-based method, check out the tutorials at <a href="http://www.learnpython.org">learnpython.org</a>.
 
 ### Friday, August 31
+Working with Python and text files.
+
 
 ## Week 2 
 ### Monday, September 3
 NO CLASS BECAUSE IT'S LABOR DAY
 
 ### Wednesday, September 5
+Peer review workshop of your [Remix projects](/projects/#project-remix). You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
 
 ### Friday, September 7
-**_Remix Projects Due_**
+[**_Remix Projects Due_**](/projects/#project-remix)
 
 ## Week 3 
 ### Monday, September 10
@@ -44,8 +60,10 @@ NO CLASS BECAUSE IT'S LABOR DAY
 ## Week 4
 ### Monday, September 17
 ### Wednesday, September 19
+Peer review workshop of your [Bot projects](/projects/#project-bot).
+
 ### Friday, September 21
-**_Bot Projects Due_**
+[**_Bot Projects Due_**](/projects/#project-bot)
 
 ## Week 5
 ### Monday, September 24
@@ -57,7 +75,7 @@ NO CLASS BECAUSE IT'S LABOR DAY
 ### Monday, October  1
 ### Wednesday, October  3
 ### Friday, October  5
-**Poetry Projects Due**
+[**Poetry Projects Due**](/projects/#project-more-poetry-oh-noetry)
 
 ## Week 7
 ### Monday, October  8
@@ -71,7 +89,7 @@ FALL BREAK; NO CLASS
 
 ### Wednesday, October 17
 ### Friday, October 19
-**Glitch Projects Due**
+[**Glitch Projects Due**](/projects/#project-glitch)
 
 ## Week 9
 ### Monday, October 22
@@ -83,7 +101,7 @@ FALL BREAK; NO CLASS
 ### Monday, October 29
 ### Wednesday, October 31
 ### Friday, November  2
-**Screensaver Projects Due**
+[**Screensaver Projects Due**](/projects/#project-screensaver)
  
 ## Week 11
 ### Monday, November  5
@@ -99,7 +117,7 @@ FALL BREAK; NO CLASS
 
 ## Week 13
 ### Monday, November 19
-**NaNoGenMo Projects Due**
+[**NaNoGenMo Projects Due**](/projects/#project-nanogenmo)
 
 ### Wednesday, November 21
 THANKSGIVING
@@ -111,7 +129,7 @@ THANKSGIVING
 ### Monday, November 26
 ### Wednesday, November 28
 ### Friday, November 30
-**Clock Projects Due**
+[**Clock Projects Due**](/projects/#project-clock)
 
 ## Week 15
 ### Monday, December  3
@@ -120,4 +138,4 @@ THANKSGIVING
 
 
 ## Finals Week
-**Portfolios Due**
+[**Portfolios Due**](/projects/#final-portfolio)

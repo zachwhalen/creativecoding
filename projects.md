@@ -13,7 +13,8 @@ For this first project, write some code that appropriates some text, transforms 
 I encourage you to use books from [Project Gutenberg](http://www.gutenberg.org) as your sources, and to experiment with [Python's random](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python) functions, [text parsing with TextBlob](https://textblob.readthedocs.io/), and poetic formats.
 
 ### Criteria
-
+ * **Workshop:** Wednesday, September 5
+ * **Final Version Due:** Friday, September 7
 
 ### Example: Frankenpoem
 
@@ -40,6 +41,8 @@ Make a bot for Twitter or Mastadon. It can be text or image-based, but it should
 If you want your bot to live in Mastadon, I recommend the [botsin.space](http://botsin.space) instance.
 
 ### Criteria
+* **Workshop:** Wednesday, September 19
+* **Final Version Due:** Friday, September 21
 
 ### Example: Bots with CBDQ
 
@@ -58,4 +61,6 @@ The Twitter account, [@RRAAAAARRL](http://www.twitter.com/RRAAAAARRL), is a bot 
 ## Project: Screensaver
 
 ## Project: Clock
+
+## Final Portfolio
 
