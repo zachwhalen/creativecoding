@@ -22,6 +22,7 @@ body.schedule nav.toc ul li ul {
 /* Seeing if fa works like this */
 
 body.schedule h3:before {
-	content: '\f073';
+	content: '\f133';
 	font-family: FontAwesome;
+	padding-right: .3em;
 }
