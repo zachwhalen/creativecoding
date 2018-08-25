@@ -31,13 +31,15 @@ All of the software and tools you'll need for this class will be free to use. Th
 
 ## Tools and Tutorials
 
-<a href="http://www.crystalcodepalace.com/traceryTut.html">Tracery Tutorial by Kate Compton</a>
+<a href="http://www.crystalcodepalace.com/traceryTut.html">A tutorial for learning Tracery by Kate Compton</a>
 
-<a href="http://cheapbotsdonequick.com">_Cheap Bots Done Quick_, for making Twitter bots with Tracery</a>
+<a href="http://cheapbotsdonequick.com">Use _Cheap Bots Done Quick_ to making Twitter bots with Tracery</a>
 
 <a href="https://zachwhalen.github.io/ssbot/">Making a Twitter Bot with Google Spreadsheets by Zach Whalen</a>
 
+<a href="http://www.learnpython.org">Learn Python with interactive tutorials at LearnPython.org.</a>
 
+<a href="http://notebooks.azure.com">Work on Python with Jupyter Notebooks in the cloud instead of on your computer with Microsoft Azure.</a>
 
 ## Inspiration
 

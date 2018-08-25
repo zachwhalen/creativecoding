@@ -14,31 +14,43 @@ This page is a _tentative schedule_ of assignments and activities for the semest
 ### Monday, August 27
 This is the first day of class! We'll go over the class goals and structure, and you'll attempt your first creative coding project.
 
-#### Key Questions
- * Creativity?
- * Code?
-
-#### In-Class Project: 
- * Remix a webpage
+#### Goals for Class
+ * What is this class about?
+ * What is creativity?
+ * What is code?
+ * Let's remix a webpage
 
 #### Homework: 
  * Sign up for Github
  * Join the [Slack](http://creativecodersatumw.slack.com)
- * Complete your webpage remix and also try another one
+ * Complete the webpage remix you started in class and maybe try another one
  * Fill out the [student information survey](https://airtable.com/shrxeWOPmYxBTdTFs) if you haven't already
+
 <!-- demo a few things of the sort they'll be making this semester. Maybe one for each project type we're doing. -->
 
 ### Wednesday, August 29
-Getting to know your computer and getting started with Python.
+This is the second day of class! You'll share the results of your web remixes, and I'll help get you acquainted with Github, Twitter Bots, and Tracery.
 
-#### Key Tasks
- * Set up your coding environment on your computer and/or in the cloud.
+#### Goals
+ * Tour Github 
+ * Demo some Twitter Bots
+ * Introduce Tracery
 
 #### Homework
- * Keep working on and getting to know Python. If you have the _Exploratory Programming_ book, take a look at the first 2 or 3 chapters. If you'd prefer to learn from a web-based method, check out the tutorials at <a href="http://www.learnpython.org">learnpython.org</a>.
+ * Read <span class="TODO">bots should punch up, the elo3 showcase of bots, mark's thing on bots of conviction</span>.
+ * Work through the Tracery Tutorial
+
 
 ### Friday, August 31
-Working with Python and text files.
+This is the third day of class! [OK, that's the last time I'll do that] Today we'll discuss some of the things you've been learning about different kinds of bots and the pros and cons of different approaches. I'll show you how to create a Twitter account for your bot and lead you in brainstorming some ideas.
+
+#### Goals
+ * Create the Twitter account for your bot
+ * Create some placeholder code for your bot in [_Cheap Bots Done Quick_](http://www.cheapbotsdonequick.com/).
+
+#### Homework:
+ * Set up a blog for this class if you haven't already
+ * Work on your bot; get it ready for the workshop
 
 
 ## Week 2 
@@ -46,24 +58,52 @@ Working with Python and text files.
 NO CLASS BECAUSE IT'S LABOR DAY
 
 ### Wednesday, September 5
-Peer review workshop of your [Remix projects](/projects/#project-remix). You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
+Peer review workshop of your [Bot Projects](/projects/#project-bot).
+. You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
 
 ### Friday, September 7
-[**_Remix Projects Due_**](/projects/#project-remix)
+[**_Bot Projects Due_**](/projects/#project-bot)
+Show off the final and best version of your bot. Be prepared to talk about your inspiration, your work process, and your revisions.
 
 ## Week 3 
 ### Monday, September 10
+Today you'll get to know your computer a little better, and I'll get you started with an introduction to Python.
+
+#### Goals
+ * Learn some command-line basics
+ * Set up your Python environment on your computer and/or in the cloud.
+
+#### Homework
+ * Keep working on and getting to know Python. If you have the _Exploratory Programming_ book, take a look at the first 2 or 3 chapters. If you'd prefer to learn from a web-based method, check out the tutorials at <a href="http://www.learnpython.org">learnpython.org</a>.
+ * Read the introduction and first two chapters of _Virtual Muse_ (through page 27).
+
 ### Wednesday, September 12
+We'll talk about poetry and go further into Python with some syntax lessons, including libraries and some fundamental control structures like `for` loops. I'll also show you how to work with the full text of books that you can find on [Project Gutenberg](http://www.gutenberg.org).
+
+#### Goals
+ * Talk about poetry
+ * Work with Project Gutenberg
+ * Learn how to read and print the contents of a file
+
+#### Homework
+ * Read chapters 3 and 4 of _Virtual Muse_ (through page 53)
+ * 
+
 ### Friday, September 14
+
+
+#### Goals
+
 
 
 ## Week 4
 ### Monday, September 17
+
 ### Wednesday, September 19
-Peer review workshop of your [Bot projects](/projects/#project-bot).
+Peer review workshop of your [Remix Projects](/projects/#project-remix). You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
 
 ### Friday, September 21
-[**_Bot Projects Due_**](/projects/#project-bot)
+[**_Remix Projects Due_**](/projects/#project-remix)
 
 ## Week 5
 ### Monday, September 24
@@ -105,7 +145,16 @@ FALL BREAK; NO CLASS
  
 ## Week 11
 ### Monday, November  5
+
+
+#### Goals
+
 ### Wednesday, November  7
+
+
+### Thursday, November 8
+Creative Code Reading at ELC's "Thursday Poetry and Prose" event! Bring your best work to share. 
+
 ### Friday, November  9
 
 
