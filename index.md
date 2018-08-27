@@ -3,8 +3,6 @@ layout: single
 author_profile: false
 ---
 
-# Hello, World!
-
 This is the webpage for a class: _DGST 301A, "Creative Coding"_ at the [University of Mary Washington](http://www.umw.edu).
 
 On this site, I've listed all the details [about the class](/about), including a tentative [schedule](/schedule), a description of the [projects](/projects) that students will be working on, and a list of some helpful [resources](/resources).

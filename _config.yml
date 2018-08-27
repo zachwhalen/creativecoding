@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Zach Whalen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "An Associate Professor of Digital Studies @ UMW."
+  location         : "Virginia"
   email            :
-  uri              :
+  uri              : "www.zachwhalen.net"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "http://www.github.com/zachwhalen"
   gitlab           :
   google_plus      :
   keybase          :
@@ -124,8 +124,8 @@ author:
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          :
+  tumblr           : "http://zachwhalen.tumblr.com"
+  twitter          : "http://www.twitter.com/zachwhalen"
   vine             :
   weibo            :
   xing             :
