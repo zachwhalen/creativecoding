@@ -18,12 +18,12 @@ This is the first day of class! We'll go over the class goals and structure, and
  * What is this class about?
  * What is creativity?
  * What is code?
- * Let's remix a webpage
+ * Let's remix a web poem
 
 #### Homework: 
  * Sign up for Github
  * Join the [Slack](http://creativecodersatumw.slack.com)
- * Complete the webpage remix you started in class and maybe try another one
+ * Complete the poem remix you started in class and maybe [try another one](http://nickm.com/poems/lede.html)
  * Fill out the [student information survey](https://airtable.com/shrxeWOPmYxBTdTFs) if you haven't already
  * Browse the suite of Twitter bots in the [ELO Collection, Vol 3](http://collection.eliterature.org/3/collection-bots.html)
 
