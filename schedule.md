@@ -25,6 +25,7 @@ This is the first day of class! We'll go over the class goals and structure, and
  * Join the [Slack](http://creativecodersatumw.slack.com)
  * Complete the webpage remix you started in class and maybe try another one
  * Fill out the [student information survey](https://airtable.com/shrxeWOPmYxBTdTFs) if you haven't already
+ * Browse the suite of Twitter bots in the [ELO Collection, Vol 3](http://collection.eliterature.org/3/collection-bots.html)
 
 <!-- demo a few things of the sort they'll be making this semester. Maybe one for each project type we're doing. -->
 
@@ -37,8 +38,9 @@ This is the second day of class! You'll share the results of your web remixes, a
  * Introduce Tracery
 
 #### Homework
- * Read <span class="TODO">bots should punch up, the elo3 showcase of bots, mark's thing on bots of conviction</span>.
- * Work through the Tracery Tutorial
+ * Read ["Bots should Punch Up"](https://www.crummy.com/2013/11/27/0) by Leonard Richardson and 
+ * Read ["Who's Responsible for What Bots say Online?"](https://motherboard.vice.com/en_us/article/qkvneb/whos-responsible-for-what-bots-say-online) particularly the comments by [Darius Kazemi](http://tinysubversions.com/)
+ * Work through Kate Compton's [Tracery Tutorial](http://www.crystalcodepalace.com/traceryTut.html)
 
 
 ### Friday, August 31
@@ -51,6 +53,7 @@ This is the third day of class! [OK, that's the last time I'll do that] Today we
 #### Homework:
  * Set up a blog for this class if you haven't already
  * Work on your bot; get it ready for the workshop
+ * Read ["A protest bot is a bot so specific you can't mistake it for bullshit"](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa) by Mark Sample
 
 
 ## Week 2 

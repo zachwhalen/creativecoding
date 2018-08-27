@@ -66,9 +66,10 @@ Participation is an important part of this class, so it's listed as 30% of your 
 * Be in class every day, on time, ready to work on the material at hand
 * Use Slack to keep up to date with your peers, share your work, and give feedback to others
 * Complete and share in-class activities and short homework "mini-projects" in class or in Slack
-* Participate fully in workshopping your peers' creative projects
+* Participate fully and actively in all peer review workshops
 * Commit yourself to knowing and at least getting along with everyone else in the class
 * Avoid behavior in class or in Slack that would distract others or alienate their participation in any way
+
 
 ### Logistics
 
@@ -78,9 +79,7 @@ You'll be working with Github quite a bit this semester, and you should also cre
  * A sample of your output
  * A blog entry describing your process, reflecting on the outcome, and linking to your code in Github
 
- When all this is done, share your blog post in Slack, and submit it in Canvas.
-
-
+When all this is done, share your blog post in Slack, and submit it in Canvas.
 
 ## Policies and Expectations
 
