@@ -52,8 +52,10 @@ This is the third day of class! [OK, that's the last time I'll do that] Today we
 
 #### Homework:
  * Set up a blog for this class if you haven't already
+ * Share bots you like and brainstorm ideas [in Slack](http://creativecodersatumw.slack.com)
  * Work on your bot; get it ready for the workshop
  * Read ["A protest bot is a bot so specific you can't mistake it for bullshit"](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa) by Mark Sample
+
 
 
 ## Week 2 
