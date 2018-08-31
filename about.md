@@ -110,6 +110,9 @@ The [Office of Disability Resources](https://academics.umw.edu/disability/) has 
 
 The Office of Disability Resources has [a website](https://academics.umw.edu/disability/), or their phone number is 540-654-1266.
 
+### Title IX
+University of Mary Washington faculty are committed to supporting students and upholding the University’s Policy on Sexual and Gender Based Harassment and Other Forms of Interpersonal Violence.  Under Title IX and this Policy, discrimination based upon sex or gender is prohibited.  If you experience an incident of sex or gender-based discrimination, we encourage you to report it.  While you may talk to me, understand that as a “Responsible Employee” of the University, I MUST report to UMW’s Title IX Coordinator what you share.  If you wish to speak to someone confidentially, please contact the below confidential resources.  They can connect you with support services and help you explore your options.  You may also seek assistance from UMW’s Title IX Coordinator.  Please visit http://diversity.umw.edu/title-ix/ to view UMW’s Policy on Sexual and Gender Based Harassment and Other Forms of Interpersonal Violence and to find further information on support and resources.  
+
 ## License
 
 Because this site is hosted in Github, and because it's the norm in Github to add a license to any work you share here, this syllabus and related class material is hereby licensed under with a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> Creative Commons "Attribution" license. 
