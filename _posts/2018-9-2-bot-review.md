@@ -51,10 +51,10 @@ It goes even faster if you add more options at the `origin` level, or if you mak
 	"origin":["Roses are #color1#, violets are #color2#.","Sugar is #flavors# and so are #objects#"],
 	"color1":["blue","red","green","yellow"],
 	"color2": ["pink","white","black","turquoise","magenta","orange"],
-	"flavors":["sweeter than #candy#","smokey","tasting like #animals#","sour","cold","fishy"],
+	"flavors":["sweeter than <mark>#candy#</mark>","smokey","tasting like <mark>#animals#</mark>","sour","cold","fishy"],
 	"objects": ["papers","toys","walls","discs","ice creams","carpets","aluminum foil"],
-	"animals":["cow","pig","trout","spider"],
-	"candy":["honey","Snickers","Butterfingers"]
+	<mark>"animals":["cow","pig","trout","spider"],</mark>
+	<mark>"candy":["honey","Snickers","Butterfingers"]</mark>
 }
 ```
 
