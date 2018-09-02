@@ -23,7 +23,7 @@ On Friday, you'll each give a brief performance of your bot to the class, and we
 
 As you complete your bot, I want to draw your attention to the "at least 100,000 variations" requirement. That may seem like a lot, but it's pretty easy to figure out. Consider some Tracery code like this:
 
-```
+```json
 {
 	"origin":["Roses are #color1#, violets are #color2#.","Sugar is #flavors# and so are #objects#"],
 	"color1":["blue","red","green","yellow"],
@@ -46,6 +46,7 @@ In the second option, six `flavors` times seven `objects` equals 42 variations.
 
 It goes even faster if you add more options at the `origin` level, or if you make each of the substitutions include substitutions of their own:
 
+```json
 {
 	"origin":["Roses are #color1#, violets are #color2#.","Sugar is #flavors# and so are #objects#"],
 	"color1":["blue","red","green","yellow"],
@@ -55,6 +56,7 @@ It goes even faster if you add more options at the `origin` level, or if you mak
 	"animals":["cow","pig","trout","spider"],
 	"candy":["honey","Snickers","Butterfingers"]
 }
+```
 
 That would be calcuated like
 
