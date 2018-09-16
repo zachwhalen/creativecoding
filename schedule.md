@@ -92,26 +92,35 @@ We'll talk about poetry and go further into Python with some syntax lessons, inc
 
 #### Homework
  * Read chapters 3 and 4 of _Virtual Muse_ (through page 53)
- * 
+ 
 
 ### Friday, September 14
-
-
-#### Goals
-
-
+CLASS CANCELED for "HURRICANE"
 
 ## Week 4
 ### Monday, September 17
+Randomness in philosophy, poetry and Python.
+
+#### Goals
+ * Discuss chapters 3 and 4 of _Virtual Muse_
+ * Learn how to work with randomness in Python
+
+#### Homework
+ * Brainstorm some poetry ideas by preparing "pseudocode" for how your poems will work.
+ * Look for interesting data sets that might become part of your poem, and share them in Slack.
 
 ### Wednesday, September 19
-Peer review workshop of your [Remix Projects](/projects/#project-remix). You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
+Working with text. 
+
 
 ### Friday, September 21
-[**_Remix Projects Due_**](/projects/#project-remix)
+Peer review workshop of your [Remix Projects](/projects/#project-remix). You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
+
 
 ## Week 5
 ### Monday, September 24
+[**_Remix Projects Due_**](/projects/#project-remix)
+
 ### Wednesday, September 26
 ### Friday, September 28
 
