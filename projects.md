@@ -30,11 +30,17 @@ The Twitter account, [@RRAAAAARRL](http://www.twitter.com/RRAAAAARRL), is a bot 
 ## Project: Remix
 For this second project, write some code that appropriates some text, transforms it in some way, and present the resulting output as poetry. You may use command-line tools, write a Python script, or some combination thereof.
 
-I encourage you to use books from [Project Gutenberg](http://www.gutenberg.org) as your sources, and to experiment with [Python's random](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python) functions, [text parsing with TextBlob](https://textblob.readthedocs.io/), and poetic formats.
+In other words, you have two things to figure out:
+ * A source -- anything that is not already poetry
+ * A method -- a process for transforming that into poetry.
+
+That method involves both the concept (i.e. "Select from a list of all of the adjectives and nouns in _Frankenstein_") and some Python code to realize that concept (see below)
+.
+I encourage you to use books from [Project Gutenberg](http://www.gutenberg.org) as your sources, but please feel free to think more expansively than that. Just about anything can become poetry! I've already demonstrated how to work with [Python's random](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python) functions, and we'll try some other things like [text parsing with TextBlob](https://textblob.readthedocs.io/) and other poetic algorithms.
 
 ### Criteria
- * **Workshop:** Wednesday, September 19
- * **Final Version Due:** Friday, September 21
+ * **Workshop:** Friday, September 19
+ * **Final Version Due:** Monday, September 24
 
 ### Example: Frankenpoem
 
