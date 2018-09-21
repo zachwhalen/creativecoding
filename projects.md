@@ -39,7 +39,11 @@ That method involves both the concept (i.e. "Select from a list of all of the ad
 I encourage you to use books from [Project Gutenberg](http://www.gutenberg.org) as your sources, but please feel free to think more expansively than that. Just about anything can become poetry! I've already demonstrated how to work with [Python's random](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python) functions, and we'll try some other things like [text parsing with TextBlob](https://textblob.readthedocs.io/) and other poetic algorithms.
 
 ### Criteria
- * **Workshop:** Friday, September 19
+ * A Python program that takes non-poetry input and prints out poetry
+ * A blog entry that
+ 	* includes some sample output, explaining its poetics
+ 	* describes your process, including annotated source code
+ * **Workshop:** Friday, September 21
  * **Final Version Due:** Monday, September 24
 
 ### Example: Frankenpoem
