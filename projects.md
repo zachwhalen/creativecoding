@@ -14,9 +14,9 @@ Make a bot for Twitter or Mastadon. It can be text or image-based, but it should
 
 ### Criteria
 * To receive credit, your bot must 
-* * Be creatively compelling in some way
-* * Post automatically to Twitter at least twice a day
-* * Be capable of generating at least 100,000 unique permutations
+  - Be creatively compelling in some way
+  - Post automatically to Twitter at least twice a day
+  - Be capable of generating at least 100,000 unique permutations
 * **Workshop:** Wednesday, September 5
 * **Final Version Due:** Friday, September 7
 
@@ -41,8 +41,8 @@ I encourage you to use books from [Project Gutenberg](http://www.gutenberg.org) 
 ### Criteria
 * A Python program that takes non-poetry input and prints out poetry
 * A blog entry that
-  * includes some sample output, explaining its poetics
-  * describes your process, including annotated source code
+  - includes some sample output, explaining its poetics
+  - describes your process, including annotated source code
 * **Workshop:** Friday, September 21
 * **Final Version Due:** Monday, September 24
 
