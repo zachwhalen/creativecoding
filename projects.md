@@ -41,8 +41,8 @@ I encourage you to use books from [Project Gutenberg](http://www.gutenberg.org) 
 ### Criteria
  * A Python program that takes non-poetry input and prints out poetry
  * A blog entry that
- 	* includes some sample output, explaining its poetics
- 	* describes your process, including annotated source code
+  * includes some sample output, explaining its poetics
+  * describes your process, including annotated source code
  * **Workshop:** Friday, September 21
  * **Final Version Due:** Monday, September 24
 
