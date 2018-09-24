@@ -119,15 +119,27 @@ Peer review workshop of your [Remix Projects](/projects/#project-remix). You sho
 
 ## Week 5
 ### Monday, September 24
-[**_Remix Projects Due_**](/projects/#project-remix)
+Today, the [**_Remix Projects are Due_**](/projects/#project-remix) so we'll start class with a 
+
+#### Goals
+ * Share your work
+ * Learn how to work with code on Github
+
+#### Homework
+ * Improve your poem code somehow
+ * Share the update in Slack
 
 ### Wednesday, September 26
+
+
 ### Friday, September 28
 
 
 ## Week 6
 ### Monday, October  1
+
 ### Wednesday, October  3
+
 ### Friday, October  5
 [**Poetry Projects Due**](/projects/#project-more-poetry-oh-noetry)
 
