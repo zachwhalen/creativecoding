@@ -69,6 +69,12 @@ guilty night
 
 ## Project: More Poetry? Oh, Noetry!
 
+Whereas the [Remix Project](#project-remix) welcomed a broad definition of poetry -- especially free verse and minimalist styles -- this third project challenges students to create a program that will generate poems following the constraints (meter, rhyme, structure) of a poetic form of their choice.
+
+### Criteria
+* A Python program that creates poetry in a specific form.
+* A blog entry describing the program, demonstrating sample output, and linking to the annotated source code.
+* **Final Version Due:** Friday, October 5
 
 
 ## Project: NaNoGenMo
