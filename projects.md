@@ -76,6 +76,12 @@ Whereas the [Remix Project](#project-remix) welcomed a broad definition of poetr
 * A blog entry describing the program, demonstrating sample output, and linking to the annotated source code.
 * **Final Version Due:** Friday, October 5
 
+### Example: Secret Peaches
+
+This is a series of videos, but I'm also sharing the relevant notebooks in [the examples folder](https://github.com/zachwhalen/creativecoding/tree/master/examples).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu8zaGaJFFipsk-bO96AjWghP0EnOCrej" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## Project: NaNoGenMo
 
