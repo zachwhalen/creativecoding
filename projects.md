@@ -82,10 +82,20 @@ This is a series of videos, but I'm also sharing the relevant notebooks in [the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu8zaGaJFFipsk-bO96AjWghP0EnOCrej" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+## Project: Glitch 
+"Glitch Art" is a general category of data manipulation that changes images into something else. The results are messy, chaotic, and unpredictably ａ ｅ ｓ ｔ ｈ ｅ ｔ ｉ ｃ. In this project, you'll experiment with different glitch methods -- some based in software, some based in code -- to convey a specific idea, narrative, or theme in 8 - 20 images. For the purposes of this project, please avoid off-the-shelf "glitch" apps as these are working against the basic themes of this project. Instead, please use at least two of the methods listed below to produce 8 - 20 glitched images.
+
+### Glitch Methods
+ * **Databending**. Use software designed for something else to mess with image files. [Audacity](https://www.audacityteam.org/download/), WordPad, and TextEdit are popular options.
+ * **Pixel sorting**. Use a [Python module](http://satyarth.me/articles/pixel-sorting/) to rearrange the pixels of an image according to different criteria to produce [a surreal effect](http://www.twitter.com/crookedcosmos).
+ * **Datamoshing**. Manipulating structural data in media files, especially video, to [produce interesting and often disturbing alternatives](https://twitter.com/youtubeartifact).
+
+### Project Criteria
+ * 8 - 20 glitched images using **at least two** of the methods listed above
+ * A gallery of these images presented or arranged meaningfully.
 
 ## Project: NaNoGenMo
 
-## Project: Glitch  
 
 ## Project: Screensaver
 
