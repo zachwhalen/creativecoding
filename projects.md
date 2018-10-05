@@ -82,7 +82,7 @@ This is a series of videos, but I'm also sharing the relevant notebooks in [the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu8zaGaJFFipsk-bO96AjWghP0EnOCrej" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Project: Glitch 
+## Project: Glitch Gallery
 "Glitch Art" is a general category of data manipulation that changes images into something else. The results are messy, chaotic, and unpredictably ａ ｅ ｓ ｔ ｈ ｅ ｔ ｉ ｃ. In this project, you'll experiment with different glitch methods -- some based in software, some based in code -- to convey a specific idea, narrative, or theme in 8 - 20 images. For the purposes of this project, please avoid off-the-shelf "glitch" apps as these are working against the basic themes of this project. Instead, please use at least two of the methods listed below to produce 8 - 20 glitched images.
 
 ### Glitch Methods
@@ -92,7 +92,8 @@ This is a series of videos, but I'm also sharing the relevant notebooks in [the 
 
 ### Project Criteria
  * 8 - 20 glitched images using **at least two** of the methods listed above
- * A gallery of these images presented or arranged meaningfully.
+ * A gallery of these images presented and arranged meaningfully.
+ * A blog entry explaining your glitch methods and the intent behind your arrangement.
 
 ## Project: NaNoGenMo
 

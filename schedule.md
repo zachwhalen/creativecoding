@@ -133,29 +133,42 @@ Today, the [**_Remix Projects are Due_**](/projects/#project-remix) so we'll sta
 
 
 ### Friday, September 28
-
+Defining functions and working with PyCorpora.
 
 ## Week 6
-### Monday, October  1
+### Monday, October 1
+Project Workshop.
 
-### Wednesday, October  3
+### Wednesday, October 3
+Project Workshop.
 
 ### Friday, October  5
 [**Poetry Projects Due**](/projects/#project-more-poetry-oh-noetry)
 
+#### Homework
+ * Learn about glitch art starting with [this article](http://www.themachinestarts.com/read/2012-08-feedback-white-noise-and-glitches-cyberspace-strikes-back), [this documentary](http://www.youtube.com/watch?v=gr0yiOyvas4) and [this manifesto](http://art310-f12-hoy.wikispaces.umb.edu/file/view/Glitch+Studies+Manifesto+rewrite+for+Video+Vortex+2+reader.pdf).
+
 ## Week 7
 ### Monday, October  8
-### Wednesday, October 10
-### Friday, October 12
+Working with images; databending with Audacity. 
 
+### Wednesday, October 10
+Pixelsorting in Python.
+
+
+### Friday, October 12
+Datamoshing with avidemux.
 
 ## Week 8
 ### Monday, October 15
 FALL BREAK; NO CLASS
 
 ### Wednesday, October 17
+Peer review and workshop.
+
 ### Friday, October 19
-[**Glitch Projects Due**](/projects/#project-glitch)
+[**Glitch Gallery Projects Due**](/projects/#project-glitch)
+
 
 ## Week 9
 ### Monday, October 22

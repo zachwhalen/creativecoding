@@ -6,6 +6,8 @@ permalink: /resources/
 
 Here are some resources that will help you be successful in this class.
 
+---
+
 ## Books
 
 <h3 style="clear:left">Required</h3>
@@ -22,12 +24,16 @@ You might have this book already from DGST 395. Or, if you'll be taking 395 in t
 
 <img class="rt" src="{{ site.baseurl }}/images/ep.jpg" alt="Exploratory Programming Cover" /> Montfort, Nick. _Exploratory Programming for the Arts and Humanities_. 1st edition, The MIT Press, 2016.
 
+---
+
 ## Software
 
 All of the software and tools you'll need for this class will be free to use. There are many of these, but in order to access them all and complete the projects, you'll need at least the following:
 
  - A computer that you can bring to class every day. (Mac, Windows, Linux are all fine. A Chromebook might be tricky but we'll try it.)
  - A <a href="http://www.github.com">GitHub account</a>.
+
+ ---
 
 ## Tools and Tutorials
 
@@ -41,7 +47,14 @@ All of the software and tools you'll need for this class will be free to use. Th
 
 <a href="http://notebooks.azure.com">Work on Python with Jupyter Notebooks in the cloud instead of on your computer with Microsoft Azure.</a>
 
-## Inspiration
+## Youtube
+
+I've started making [videos](https://www.youtube.com/zachwhalen) for this class's projects! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwyd1xEn5d8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
 
 
 
