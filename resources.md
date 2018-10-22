@@ -47,6 +47,8 @@ All of the software and tools you'll need for this class will be free to use. Th
 
 <a href="http://notebooks.azure.com">Work on Python with Jupyter Notebooks in the cloud instead of on your computer with Microsoft Azure.</a>
 
+---
+
 ## Youtube
 
 I've started making [videos](https://www.youtube.com/zachwhalen) for this class's projects! 

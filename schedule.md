@@ -153,7 +153,7 @@ Project Workshop.
 Working with images; databending with Audacity. 
 
 ### Wednesday, October 10
-Pixelsorting in Python.
+Pixel sorting in Python.
 
 
 ### Friday, October 12
@@ -172,6 +172,18 @@ Peer review and workshop.
 
 ## Week 9
 ### Monday, October 22
+Getting started with p5.js and the screensaver project
+#### Goals
+ * Sign in to editor.p5js.org
+ * Create a sketch
+ * Make a drawing of a scene, a house, or a stick figure
+
+#### Homework
+ * Read about [the p5js community](https://p5js.org/community/)
+ * Learn about [the history of screensavers](http://www.slate.com/articles/technology/future_tense/2017/07/a_farewell_to_screen_savers_the_imagined_dreams_of_our_machines.html)
+ * Watch and play along with some more [Coding Train videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (2.1 - 2.5)
+
+
 ### Wednesday, October 24
 ### Friday, October 26
 

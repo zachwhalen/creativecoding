@@ -95,10 +95,27 @@ This is a series of videos, but I'm also sharing the relevant notebooks in [the 
  * A gallery of these images presented and arranged meaningfully.
  * A blog entry explaining your glitch methods and the intent behind your arrangement.
 
+## Project: Screensaver
+"Screensavers" are (or were) a way to save energy and avoid the ["burn-in"](https://en.wikipedia.org/wiki/Screen_burn-in) damage that can happen to CRT monitors when they display the same imagery for long periods of time. While we're more likely today to have a simple slideshow, an inspirational quote, or maybe a clock, and we've probably configured that with software built in to our operating system, it used to be the case that users would download custom software like ["After Dark"](https://en.wikipedia.org/wiki/After_Dark_(software)) specifically for this purpose.
+
+In this project, your goal is to create an interesting, looping animation in the style of a screensaver using p5.js. You should create and share this using the online p5.js editor: [editor.p5js.org](http://editor.p5js.org), which you can sign into with your Github account.
+
+Your screensaver can be abstract or representational. It can be fully scripted or random. It can be completel novel, or it could be a recreation of a classic screensaver. It can be completely self-contained, or it can pull in live data from an external source. 
+
+All of these things are possible with p5.js. Whatever you choose, keep in mind the target audience of the HCC media wall, and plan it to last for at least 5 minutes.
+
+### Project Criteria
+ * A project shared the p5.js web editor
+ * A canvas set to 1920x1080 so that it fits the media wall
+ * Something that stays interesting for at least 5 minutes
+ * A blog entry describing and embedding the final project
+ * A final version by **Nov 2, 2018**.
+
+
 ## Project: NaNoGenMo
 
 
-## Project: Screensaver
+
 
 ## Project: Clock
 
