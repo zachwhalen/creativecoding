@@ -12,3 +12,4 @@ I'll also be posting [updates](/creativecoding/updates) as the semester goes on 
 Obviously, this site is mainly intended for [students](/creativecoding/roster), but since we're working on the open web here, feel free to look around even if you're not a student.
 
 If you have any questions or concerns about what you see here, please [contact me](http://www.zachwhalen.net/contact).
+
