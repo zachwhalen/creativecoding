@@ -13,7 +13,7 @@ Back in the oldentimes (the late-1900s), a screensaver was a piece of novelty so
 
 <div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/3o7qDH32AMQ7TJZ8JO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/the-current-sea-sarah-zucker-thecurrentseala-3o7qDH32AMQ7TJZ8JO">via GIPHY</a></p>
 
-For a time, third-party screensavers like [After Dark](https://en.wikipedia.org/wiki/After_Dark_(software) thrived, and it was common for users to download [promotional screensavers from their favorite movies](https://www.warnerbros.com/archive/spacejam/movie/cmp/souvenirs/screensaverframes.html).
+For a time, third-party screensavers like [After Dark](https://en.wikipedia.org/wiki/After_Dark_(software)) thrived, and it was common for users to download [promotional screensavers from their favorite movies](https://www.warnerbros.com/archive/spacejam/movie/cmp/souvenirs/screensaverframes.html).
 
 <div style="width:100%;height:0;padding-bottom:71%;position:relative;"><iframe src="https://giphy.com/embed/SwffhF8CK0RTW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/logo-feels-SwffhF8CK0RTW">via GIPHY</a></p>
 
