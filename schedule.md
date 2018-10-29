@@ -185,9 +185,24 @@ Getting started with p5.js and the screensaver project
 
 
 ### Wednesday, October 24
+Working through the fundamentals of the P5.js web editor and brainstorming some screensavers.
+
+#### Goals
+ * Start sketching your screensaver idea.
+
+#### Homework
+ * Watch and work along with the 3.x series of [Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) videos on conditional expressions and boolean values
+
 ### Friday, October 26
+Start thinking through an object-oriented approach to animation.
 
+#### Goals
+ * Following along with the bouncing-DVD-logo example in class
 
+#### Homework
+ * _CODING TRAIN_
+
+ 
 ## Week 10
 ### Monday, October 29
 ### Wednesday, October 31
