@@ -105,7 +105,7 @@ Your screensaver can be abstract or representational. It can be fully scripted o
 All of these things are possible with p5.js. Whatever you choose, keep in mind the target audience of the HCC media wall, and plan it to last for at least 5 minutes.
 
 ### Project Criteria
- * A project shared the p5.js web editor
+ * A project created and shared with the p5.js web editor
  * A canvas set to 1920x1080 so that it fits the media wall
  * Something that stays interesting for at least 5 minutes
  * A blog entry describing and embedding the final project
@@ -113,9 +113,24 @@ All of these things are possible with p5.js. Whatever you choose, keep in mind t
 
 
 ## Project: NaNoGenMo
+NaNoGenMo or "**Na**tional **No**vel **Gen**eration **Mo**nth" is an annual challenge in computational creativity. It started in 2013 with [a tweet from Darius Kazemi](https://twitter.com/tinysubversions/status/396305662000775168), and it's been running [in Github](https://github.com/NaNoGenMo) every year since.
 
+The rules are simple:
+ * Write code that generates 50,000 words
+ * Share your final product and your code
 
+There's a wide range of complexity among the 399 successfully-completed novels, and we'll spend some time looking at different approaches.
 
+For this project, you may choose any language or system that works, but I recommend Python since we've been working with it already. I encourage you to publicly in [the official NaNoGenMo Github thread](https://github.com/NaNoGenMo/2018/issues) (it's a friendly community), but this isn't mandatory.
+
+Here's what **is** required:
+
+### Project Criteria
+ * A program that generates at least 50,000 words 
+ * ... and saves that code as a TXT or PDF file
+ * A blog entry describing your project
+ * Your source code in Github
+ * All by **November 19, 2018**.
 
 ## Project: Clock
 

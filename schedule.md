@@ -205,15 +205,27 @@ Start thinking through an object-oriented approach to animation.
  
 ## Week 10
 ### Monday, October 29
+Working on your projects.
+
 ### Wednesday, October 31
+Working on your projects.
+
 ### Friday, November  2
 [**Screensaver Projects Due**](/projects/#project-screensaver)
  
+#### Homework
+ * Read _Virtual Muse_, chapter 5, "Travesty"
+ * Read about Leonard Richardson's ["In Dialogue"](https://github.com/leonardr/In-Dialogue/). Skim [the two sample books](https://github.com/leonardr/In-Dialogue/tree/master/entry), and see if you can run it yourself. 
+
 ## Week 11
 ### Monday, November  5
-
+Introducing NaNoGenMo 
 
 #### Goals
+
+#### Homework
+ * Read _Virtual Muse_, chapter 6, "Autopoet" and 7, "Prose"
+
 
 ### Wednesday, November  7
 
@@ -222,13 +234,18 @@ Start thinking through an object-oriented approach to animation.
 Creative Code Reading at ELC's "Thursday Poetry and Prose" event! Bring your best work to share. 
 
 ### Friday, November  9
+ * NaNoGenMo Book Reports
+
+#### Goals
 
 
 ## Week 12
 ### Monday, November 12
-### Wednesday, November 14
-### Friday, November 16
 
+### Wednesday, November 14
+
+### Friday, November 16
+Peer review workshop of your novels. Have a complete draft ready for reading and sharing by today.
 
 ## Week 13
 ### Monday, November 19
