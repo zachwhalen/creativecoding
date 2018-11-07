@@ -221,14 +221,21 @@ Working on your projects.
 ### Monday, November  5
 Introducing NaNoGenMo 
 
-#### Goals
+#### In-Class Goals
+ * Generate your first "novel"
 
 #### Homework
  * Read _Virtual Muse_, chapter 6, "Autopoet" and 7, "Prose"
 
 
 ### Wednesday, November  7
+ * Working with the NaNoGenMo Corpus
 
+#### In-Class Goals
+ * Prepare for the "Poetry and Prose" reading to follow on Thursday
+
+#### Homework
+ * Choose one NaNoGenMo book from a previous year, read/skim it, and prepare a short presentation in which you summarize the book and discuss its strengths and your favorite parts of it.
 
 ### Thursday, November 8
 Creative Code Reading at ELC's "Thursday Poetry and Prose" event! Bring your best work to share. 
@@ -236,8 +243,8 @@ Creative Code Reading at ELC's "Thursday Poetry and Prose" event! Bring your bes
 ### Friday, November  9
  * NaNoGenMo Book Reports
 
-#### Goals
-
+#### In-Class Goals
+ * Deliver your "book report"
 
 ## Week 12
 ### Monday, November 12
