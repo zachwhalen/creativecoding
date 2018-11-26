@@ -266,10 +266,15 @@ THANKSGIVING
 
 ## Week 14
 ### Monday, November 26
-What are clocks? What is time?
+What are clocks? What is time? This is the beginning of our exploration of this concept in software. We'll review some examples.
 
 #### In-Class Goals
-Sketch some clocks.
+ * Discuss the nature of time and it's representation.
+ * Try out time functions and the `map` function in p5js.
+
+#### Homework
+ * Review [these examples](https://github.com/golanlevin/lectures/tree/master/lecture_clock) from a lecture by Golan Levin.
+ * Sketch (on paper) your idea for a graphical representation of the current time.
 
 
 ### Wednesday, November 28
@@ -282,10 +287,13 @@ Sketch some clocks.
 
 ## Week 15
 ### Monday, December  3
-[**Clock Projects Due**](/creativecoding/projects/#project-clock)
+k)
 
 
 ### Wednesday, December  5
+[**Clock Projects Due**](/creativecoding/projects/#project-clock)
+
+
 ### Friday, December  7
 
 

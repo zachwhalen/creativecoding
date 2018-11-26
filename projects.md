@@ -134,5 +134,17 @@ Here's what **is** required:
 
 ## Project: Clock
 
+Is time continuous or discreet? Why do we insist on dividing it into units of hours, minutes, seconds? Why are there 60 minutes in an hour, but 24 hours in a day? And why do we so often use circles to represent the passing of time? Why is the 7-segment display so ubiquitous for digital representations of time?
+
+In this project, your goal is to use p5js to create a graphical representation of the current time with as much ingenuity, novelty and coding skill as you can muster.
+
+By drawing on [the history of marking and representing time](http://www.cabinetmagazine.org/issues/29/foer.php) and [some contemporary artistic examples of time representation](https://github.com/golanlevin/lectures/tree/master/lecture_clock), and by building on the coding skills you've been developing all semester, make something interesting, provocative, or useful in software.
+
+### Project Criteria
+ * A p5js sketch that represents the current time.
+ * A blog entry describing your work in the context of prior art and acknowledging any influences, inspiration, or tutorials you relied on.
+ * Your source code shared in Github.
+ * All by **December 5, 2018**.
+
 ## Final Portfolio
 
