@@ -134,7 +134,7 @@ Here's what **is** required:
 
 ## Project: Clock
 
-Is time continuous or discreet? Why do we insist on dividing it into units of hours, minutes, seconds? Why are there 60 minutes in an hour, but 24 hours in a day? And why do we so often use circles to represent the passing of time? Why is the 7-segment display so ubiquitous for digital representations of time?
+Is time continuous or discrete? Why do we insist on dividing it into units of hours, minutes, seconds? Why are there 60 minutes in an hour, but 24 hours in a day? And why do we so often use circles to represent the passing of time? Why is the 7-segment display so ubiquitous for digital representations of time?
 
 In this project, your goal is to use p5js to create a graphical representation of the current time with as much ingenuity, novelty and coding skill as you can muster.
 
