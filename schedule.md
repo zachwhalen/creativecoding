@@ -63,11 +63,11 @@ This is the third day of class! [OK, that's the last time I'll do that] Today we
 NO CLASS BECAUSE IT'S LABOR DAY
 
 ### Wednesday, September 5
-Peer review workshop of your [Bot Projects](/projects/#project-bot).
+Peer review workshop of your [Bot Projects](/creativecoding/projects/#project-bot).
 . You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
 
 ### Friday, September 7
-[**_Bot Projects Due_**](/projects/#project-bot)
+[**_Bot Projects Due_**](/creativecoding/projects/#project-bot)
 Show off the final and best version of your bot. Be prepared to talk about your inspiration, your work process, and your revisions.
 
 ## Week 3 
@@ -114,12 +114,12 @@ Working with text.
 
 
 ### Friday, September 21
-Peer review workshop of your [Remix Projects](/projects/#project-remix). You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
+Peer review workshop of your [Remix Projects](/creativecoding/projects/#project-remix). You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
 
 
 ## Week 5
 ### Monday, September 24
-Today, the [**_Remix Projects are Due_**](/projects/#project-remix) so we'll start class with a 
+Today, the [**_Remix Projects are Due_**](/creativecoding/projects/#project-remix) so we'll start class with a 
 
 #### Goals
  * Share your work
@@ -143,7 +143,7 @@ Project Workshop.
 Project Workshop.
 
 ### Friday, October  5
-[**Poetry Projects Due**](/projects/#project-more-poetry-oh-noetry)
+[**Poetry Projects Due**](/creativecoding/projects/#project-more-poetry-oh-noetry)
 
 #### Homework
  * Learn about glitch art starting with [this article](http://www.themachinestarts.com/read/2012-08-feedback-white-noise-and-glitches-cyberspace-strikes-back), [this documentary](http://www.youtube.com/watch?v=gr0yiOyvas4) and [this manifesto](http://art310-f12-hoy.wikispaces.umb.edu/file/view/Glitch+Studies+Manifesto+rewrite+for+Video+Vortex+2+reader.pdf).
@@ -167,7 +167,7 @@ FALL BREAK; NO CLASS
 Peer review and workshop.
 
 ### Friday, October 19
-[**Glitch Gallery Projects Due**](/projects/#project-glitch)
+[**Glitch Gallery Projects Due**](/creativecoding/projects/#project-glitch)
 
 
 ## Week 9
@@ -211,7 +211,7 @@ Working on your projects.
 Working on your projects.
 
 ### Friday, November  2
-[**Screensaver Projects Due**](/projects/#project-screensaver)
+[**Screensaver Projects Due**](/creativecoding/projects/#project-screensaver)
  
 #### Homework
  * Read _Virtual Muse_, chapter 5, "Travesty"
@@ -256,7 +256,7 @@ Peer review workshop of your novels. Have a complete draft ready for reading and
 
 ## Week 13
 ### Monday, November 19
-[**NaNoGenMo Projects Due**](/projects/#project-nanogenmo)
+[**NaNoGenMo Projects Due**](/creativecoding/projects/#project-nanogenmo)
 
 ### Wednesday, November 21
 THANKSGIVING
@@ -266,15 +266,28 @@ THANKSGIVING
 
 ## Week 14
 ### Monday, November 26
+What are clocks? What is time?
+
+#### In-Class Goals
+Sketch some clocks.
+
+
 ### Wednesday, November 28
+
+
+
 ### Friday, November 30
-[**Clock Projects Due**](/projects/#project-clock)
+
+
 
 ## Week 15
 ### Monday, December  3
+[**Clock Projects Due**](/creativecoding/projects/#project-clock)
+
+
 ### Wednesday, December  5
 ### Friday, December  7
 
 
 ## Finals Week
-[**Portfolios Due**](/projects/#final-portfolio)
+[**Portfolios Due**](/creativecoding/projects/#final-portfolio)
