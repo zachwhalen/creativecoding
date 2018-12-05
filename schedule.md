@@ -278,16 +278,17 @@ What are clocks? What is time? This is the beginning of our exploration of this 
 
 
 ### Wednesday, November 28
-
+Working through analog representations of time with the `map()` function.
 
 
 ### Friday, November 30
-
+Working through discrete representations of time.
 
 
 ## Week 15
 ### Monday, December  3
 k)
+Sharing, fixing, and reviewing.
 
 
 ### Wednesday, December  5
@@ -295,7 +296,10 @@ k)
 
 
 ### Friday, December  7
+Final review and reflection.
 
 
 ## Finals Week
-[**Portfolios Due**](/creativecoding/projects/#final-portfolio)
+[**Final Portfolios Due**](/creativecoding/projects/#final-portfolio) 
+Our final exam is scheduled for Friday, December 14 from 8:30 - 11:00, so your final portfolios are due at 11:00. You **do not** need to attend this final exam or submit  your portfolio in person.
+

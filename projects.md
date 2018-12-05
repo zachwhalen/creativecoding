@@ -148,3 +148,24 @@ By drawing on [the history of marking and representing time](http://www.cabinetm
 
 ## Final Portfolio
 
+The final portfolio stand in place of a final examination for this class, and as such it is a significant project in its own right. It is intended as a cumulative summation of the skills you've developed this semester. More than simply a list of all of your projects, this portfolio should be a thoughtful presentation of the _best_ work you completed this semester, revised and improved since its first submission.
+
+One of the learning outcomes for this class is that students should be able to "_Be able to speak about their creative work critically -- both process and product_," so this portfolio is your demonstration of that ability. As a general reflection, it is also a demonstration of how you can "_Reflect on the value of the creative process_."
+
+To complete this portfolio, identify **at least four** of your projects from this semester that you'd like to improve somehow. These could be your favorite projects, the projects with the most room to grow, or the projects that were never quite completed to your satisfaction. 
+
+Then, do whatever work you need to improve each of those projects in some way, whatever "improvement" means for you in the context of each of those project's parameters. 
+
+Create a page or series of posts on your website, Github, or elsewhere to make those newly-revised projects visible along with any other projects you wish to feature. This could be a "portfolio" page on your website, for example.
+
+Finally, write a blog post or Github page where you describe your four improved projects noting what changes you made and reflecting on what makes the newly improved version of each project more successful or valuable. Reflect generally on how you approached the revision process including how you selected the projects, how you chose to revise and how the new version better meets your personal goals for the project. 
+
+You should also include any general reflections on the class and describe what you learned about creative coding and yourself as you worked on the various projects this semester. 
+
+Submit the URL for this final blog post in Canvas by 11:00 on Friday, December 14.
+
+### Project Criteria
+ * At least four revised and improved projects.
+ * A central place on the web featuring your creative coding projects.
+ * A blog post reflecting on your projects and describing your revision process.
+ * All submitted to Canvas no later than 11:00 on Friday, December 14.
