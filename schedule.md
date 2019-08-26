@@ -22,12 +22,12 @@ This is the first day of class! We'll go over the class goals and structure, and
 
 #### Next Steps 
  * Sign up for Github
- * Join our Discord server (the link is in your email)
+ * Join our Discord server (I will write the invite link on the board)
  * Complete the poem remix you started in class and maybe [try another one](http://nickm.com/poems/lede.html)
  * Fill out the [student information survey](https://airtable.com/shrxeWOPmYxBTdTFs) if you haven't already
  * Read through the collection of Twitter bots in the [ELO Collection, Vol 3](http://collection.eliterature.org/3/collection-bots.html)
 
-<!-- demo a few things of the sort they'll be making this semester. Maybe one for each project type we're doing. -->
+
 
 ### Wednesday, August 28
 This is the second day of class. You'll share the results of your web remixes, and I'll help get you acquainted with Github, Twitter Bots, and Tracery.
