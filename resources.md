@@ -12,7 +12,9 @@ Here are some resources that will help you be successful in this class.
 
 <h3 style="clear:left">Required</h3>
 
-<img class="rt" src="{{ site.baseurl }}/images/virtualmuse.jpg" alt="Virtual Muse Cover" /> Hartman, Charles O. _Virtual Muse: Experiments in Computer Poetry_. 1st edition, Wesleyan, 1996.
+<img class="rt" src="{{ site.baseurl }}/images/steal.jpg" alt="Steal Like an Artist Cover" /> Kleon, Austin. _Steal like an Artist: 10 Things Nobody Told You About Being Creative_. Workman Publishing, 2012.
+
+<img class="rt" src="{{ site.baseurl }}/images/virtualmuse.jpg" alt="Virtual Muse Cover" /> Hartman, Charles O. _Virtual Muse: Experiments in Computer Poetry_. 1st edition, Wesleyan, 1996. (Available electronically via the library.)
 
 <h3 style="clear:left">Not a Book but Required</h3>
 
