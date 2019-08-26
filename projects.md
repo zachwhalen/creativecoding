@@ -5,6 +5,8 @@ permalink: /projects/
 toc: true
 ---
 
+## Please note: This page is out of date. Students should consult more recent versions of these project descriptions in Canvas.
+
 In this class you'll be completing several smaller projects throughout the semester -- about one per week -- and then you'll select and revise your best work to include in a final portfolio.
 
 ## Project: Bot

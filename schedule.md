@@ -11,65 +11,74 @@ This page is a _tentative schedule_ of assignments and activities for the semest
 <!-- Generally speaking, each week will follow a similar format like so: - **Monday:** Workshops and critiques for the previous weeks' project - **Wednesday:** Introduction of a new concept, tool, programming language, etc. - **Friday:** In-class exercises and work on your weekly project _an idea: weekly awards or something based on their votes for each others' projects._ -->
 
 ## Week 1 
-### Monday, August 27
+### Monday, August 26
 This is the first day of class! We'll go over the class goals and structure, and you'll attempt your first creative coding project.
 
-#### Goals for Class
+#### Agenda 
  * What is this class about?
  * What is creativity?
  * What is code?
  * Let's remix a web poem
 
-#### Homework: 
+#### Next Steps 
  * Sign up for Github
- * Join the [Slack](http://creativecodersatumw.slack.com)
+ * Join our Discord server (the link is in your email)
  * Complete the poem remix you started in class and maybe [try another one](http://nickm.com/poems/lede.html)
  * Fill out the [student information survey](https://airtable.com/shrxeWOPmYxBTdTFs) if you haven't already
- * Browse the suite of Twitter bots in the [ELO Collection, Vol 3](http://collection.eliterature.org/3/collection-bots.html)
+ * Read through the collection of Twitter bots in the [ELO Collection, Vol 3](http://collection.eliterature.org/3/collection-bots.html)
 
 <!-- demo a few things of the sort they'll be making this semester. Maybe one for each project type we're doing. -->
 
-### Wednesday, August 29
-This is the second day of class! You'll share the results of your web remixes, and I'll help get you acquainted with Github, Twitter Bots, and Tracery.
+### Wednesday, August 28
+This is the second day of class. You'll share the results of your web remixes, and I'll help get you acquainted with Github, Twitter Bots, and Tracery.
 
 #### Goals
  * Tour Github 
  * Demo some Twitter Bots
  * Introduce Tracery
 
-#### Homework
+#### Next Steps
+ * Fork my [Creative Code repository](https://github.com/zachwhalen/creativecode)
  * Read ["Bots should Punch Up"](https://www.crummy.com/2013/11/27/0) by Leonard Richardson and 
  * Read ["Who's Responsible for What Bots say Online?"](https://motherboard.vice.com/en_us/article/qkvneb/whos-responsible-for-what-bots-say-online) particularly the comments by [Darius Kazemi](http://tinysubversions.com/)
  * Work through Kate Compton's [Tracery Tutorial](http://www.crystalcodepalace.com/traceryTut.html)
 
 
-### Friday, August 31
-This is the third day of class! [OK, that's the last time I'll do that] Today we'll discuss some of the things you've been learning about different kinds of bots and the pros and cons of different approaches. I'll show you how to create a Twitter account for your bot and lead you in brainstorming some ideas.
+### Friday, August 30
+This is the third day of class. [OK, that's the last time I'll do that] Today we'll discuss some of the things you've been learning about different kinds of bots and the pros and cons of different approaches. I'll show you how to create a Twitter account for your bot and lead you in brainstorming some ideas.
 
-#### Goals
+#### Agenda
  * Create the Twitter account for your bot
  * Create some placeholder code for your bot in [_Cheap Bots Done Quick_](http://www.cheapbotsdonequick.com/).
 
-#### Homework:
- * Set up a blog for this class if you haven't already
- * Share bots you like and brainstorm ideas [in Slack](http://creativecodersatumw.slack.com)
+#### Next Steps
+ * Share bots you like and brainstorm ideas in Discord
  * Work on your bot; get it ready for the workshop
  * Read ["A protest bot is a bot so specific you can't mistake it for bullshit"](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa) by Mark Sample
 
 
 
 ## Week 2 
-### Monday, September 3
+### Monday, September 2
 NO CLASS BECAUSE IT'S LABOR DAY
 
-### Wednesday, September 5
-Peer review workshop of your [Bot Projects](/creativecoding/projects/#project-bot).
+### Wednesday, September 4
+Peer review workshop of your Bot Projects.
 . You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
 
+#### Agenda
+ * **Profiles:** Kate Compton and Darius Kazemi
+ * Workshop
+
+#### Next Steps
+ * Share the final version of your bot code in Github
+ * Turn it in via Canvas
+
 ### Friday, September 7
-[**_Bot Projects Due_**](/creativecoding/projects/#project-bot)
+**_Bot Projects Due_**
 Show off the final and best version of your bot. Be prepared to talk about your inspiration, your work process, and your revisions.
 
+<!--
 ## Week 3 
 ### Monday, September 10
 Today you'll get to know your computer a little better, and I'll get you started with an introduction to Python.
@@ -302,4 +311,4 @@ Final review and reflection.
 ## Finals Week
 [**Final Portfolios Due**](/creativecoding/projects/#final-portfolio) 
 Our final exam is scheduled for Friday, December 14 from 8:30 - 11:00, so your final portfolios are due at 11:00. You **do not** need to attend this final exam or submit  your portfolio in person.
-
+-->

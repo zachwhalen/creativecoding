@@ -5,7 +5,7 @@ permalink: /roster/
 ---
 
 Here's a list of students in the class, with links to their Github profiles.
-
+<!--
 * [Ayel](https://github.com/Ayelmo)
 * [Elizabeth](https://github.com/eafinto)
 * [Ellie](https://github.com/elliewhat)
@@ -19,3 +19,4 @@ Here's a list of students in the class, with links to their Github profiles.
 * [Megan M.](github.com/Mmarzzacco)
 * [Mike](https://github.com/IGMOSS)
 * [Olivia](https://github.com/oprice01)
+-->
