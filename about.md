@@ -14,9 +14,9 @@ This page is also officially the syllabus for this class.
 <table>
 	<tr>
 		<th>What</th><td>DGST 301A: Creative Coding</td></tr>
-<tr>		<th>When</th><td>10:00 - 10:50, MWF</td></tr>
+<tr>		<th>When</th><td>1:00 - 1:50, MWF</td></tr>
 <tr>		<th>Where</th><td><a href="http://convergence.umw.edu">HCC</a> 328</td></tr>
-	<tr>	<th>Who</th><td>Dr. <a href="http://www.zachwhalen.net">Zach Whalen</a>, _Combs 308: Tuesday 9:00 - 11:00, Tuesday/Thursday 1:00 - 4:00_ </td></tr>
+	<tr>	<th>Who</th><td>Dr. <a href="http://www.zachwhalen.net">Zach Whalen</a>, _Combs 308: T/R 10:00 - 4:00_ and <a href="https://zachwhalen.youcanbook.me">by appointment</a> </td></tr>
 
 
 </table>
@@ -34,14 +34,12 @@ It is my hope that, by completing this course, successful students will:
 * Reflect on and evaluate creative digital work by others, including both peers in the class as well as in society.
 
 ## Requirements
-There is one required book for this class, _Virtual Muse: Experiments in Computer Poetry_. (1996) by Charles O. Hartmann, but many more helpful things are listed [on the resources page](/resources).
+There are two required book for this class, _Virtual Muse: Experiments in Computer Poetry_ (1996) by Charles O. Hartmann, is available through our library, and _Steal like an Artist: 10 Things Nobody Told You About Being Creative_ by Austin Kleon is available in the bookstore.
 
-You should bring a laptop to class every day.
+You should bring a laptop to class every day, if possible.
 
-## Grading
-For this class, I am implementing an "ungrading" policy. I will give students feedback on work submitted, and note when it has been completed and submitted, but it will be up to each student to make an argument on their own behalf to justify the final grade that they think they've earned by the end of the semester.
-
-Each [project](/project) will have a list of criteria and goals, and a student must satisfy all of those criteria (or propose and complete reasonable alternatives) and participate in peer workshops in order for that project to be considered "complete."
+## Minimalist Grading
+For this class, I am implementing a minimalist policy. I will give students feedback on work submitted, and note when it has been completed and submitted, but it will be up to each student to make an argument on their own behalf to justify the final grade that they think they've earned by the end of the semester.
 
 ### Distribution
 Students should use the outomes listed above and the relative weights for each assignment listed below when making their final grade justification.
@@ -49,19 +47,38 @@ Students should use the outomes listed above and the relative weights for each a
 <table>
 	<tr><th>Assignment</th><th>Relative Weight</th></tr>
 	<tr>
-		<td>Projects (7)</td><td>50%</td>
+		<td>Projects (6)</td><td>50%</td>
 	</tr>
 	<tr>
-		<td>Participation</td><td>30%</td>
+		<td>Profiles (1)</td><td>10%</td>
+	</tr>
+	<tr>
+		<td>Participation</td><td>20%</td>
 	</tr>
 	<tr>
 		<td>Final Portfolio</td><td>20%</td>
 	</tr>
 </table>
 
+### Projects
+Each project will have a list of criteria and goals, and a student must satisfy all of those criteria (or propose and complete reasonable alternatives) and participate in peer workshops in order for that project to be considered "complete."
+
+You'll be working with Github quite a bit this semester, and you may also want to create a blog or journal that you'll use to share and reflect on your projects. This is optional.
+
+Unless otherwise specified, a completed project should consist of:
+
+ * Some code you've shared in Github 
+ * A sample of your output
+ * A README.md file discussing your project and linking to a blog entry, if applicable
+
+When all this is done, submit the link to your Github folder or project in Canvas.
+
+### Profiles
+Roughly once every two weeks, class will begin with two brief "profiles in creative coding." Students assigned to present that day will take no more than 5 minutes to introduce us to a poet, programmer, or artist, and read from some of their work. These dates and the specific profiles will be scheduled in advance via Canvas.
+
 ### Participation
 
-Participation is an important part of this class, so it's listed as 30% of your overall grade. Here's what I mean by participation:
+Participation is an important part of this class, so it's listed as 20% of your overall grade. Here's what I mean by participation:
 
 * Be in class every day, on time, ready to work on the material at hand
 * Use Slack to keep up to date with your peers, share your work, and give feedback to others
@@ -69,17 +86,6 @@ Participation is an important part of this class, so it's listed as 30% of your 
 * Participate fully and actively in all peer review workshops
 * Commit yourself to knowing and at least getting along with everyone else in the class
 * Avoid behavior in class or in Slack that would distract others or alienate their participation in any way
-
-
-### Logistics
-
-You'll be working with Github quite a bit this semester, and you should also create a blog that you'll use to share and reflect on your projects. Unless otherwise specified, a completed project should consist of:
-
- * Some code you've shared in Github 
- * A sample of your output
- * A blog entry describing your process, reflecting on the outcome, and linking to your code in Github
-
-When all this is done, share your blog post in Slack, and submit it in Canvas.
 
 ## Policies and Expectations
 
@@ -112,6 +118,9 @@ The Office of Disability Resources has [a website](https://academics.umw.edu/dis
 
 ### Title IX
 University of Mary Washington faculty are committed to supporting students and upholding the University’s Policy on Sexual and Gender Based Harassment and Other Forms of Interpersonal Violence.  Under Title IX and this Policy, discrimination based upon sex or gender is prohibited.  If you experience an incident of sex or gender-based discrimination, we encourage you to report it.  While you may talk to me, understand that as a “Responsible Employee” of the University, I MUST report to UMW’s Title IX Coordinator what you share.  If you wish to speak to someone confidentially, please contact the below confidential resources.  They can connect you with support services and help you explore your options.  You may also seek assistance from UMW’s Title IX Coordinator.  Please visit http://diversity.umw.edu/title-ix/ to view UMW’s Policy on Sexual and Gender Based Harassment and Other Forms of Interpersonal Violence and to find further information on support and resources.  
+
+### Basic Needs
+If you have difficulty affording groceries or accessing sufficient food to eat every day, or if you lack a safe and stable place to live, and you believe this may affect your performance in this course, please contact Cedric Rucker, Dean of Student Life, for support. Additionally, please talk to me if you are comfortable doing so. This will enable me to provide any resources I may possess.
 
 ## License
 
