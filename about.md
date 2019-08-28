@@ -5,7 +5,7 @@ permalink: /about/
 toc: true
 ---
 
-This class is a brand-new Digital Studies elective at the University of Mary Washington. This website -- hosted in Github pages -- is intended to provide information and coordination for students. It is, of course, also open here for anyone to browse, examine, or adapt this content.
+This class is a newish Digital Studies elective at the University of Mary Washington. This website -- hosted in Github pages -- is intended to provide information and coordination for students. It is, of course, also open here for anyone to browse, examine, or adapt this content.
 
 This page is also officially the syllabus for this class.
 
