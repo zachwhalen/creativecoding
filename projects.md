@@ -7,12 +7,16 @@ toc: true
 
 ## Please note: This page is out of date. Students should consult more recent versions of these project descriptions in Canvas.
 
-In this class you'll be completing several smaller projects throughout the semester -- about one per week -- and then you'll select and revise your best work to include in a final portfolio.
+In this class you'll be completing several smaller projects throughout the semester -- about one every other week -- and then you'll select and revise your best work to include in a final portfolio.
+
+
+
+
 
 ## Project: Bot
-Make a bot for Twitter or Mastadon. It can be text or image-based, but it should be meaningful in some way. I suggest using Cheap Bots Done Quick, but might also want to consider [Tweepy](http://www.tweepy.org/) or a hosted bot with [Glitch.com](http://www.glitch.com), bearing in mind that Twitter's API constraints may make this route untenable.
+Make a bot for Twitter or Mastodon. It can be text or image-based, but it should be meaningful in some way. I suggest using Cheap Bots Done Quick, but might also want to consider [Tweepy](http://www.tweepy.org/) or a hosted bot with [Glitch.com](http://www.glitch.com), bearing in mind that Twitter's API constraints may make this route untenable.
 
-(NB: If you want your bot to live in Mastadon, I recommend the [botsin.space](http://botsin.space) instance.)
+(NB: If you want your bot to live in Mastodon, I recommend the [botsin.space](http://botsin.space) instance.)
 
 ### Criteria
 * To receive credit, your bot must 

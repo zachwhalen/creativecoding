@@ -74,43 +74,52 @@ Peer review workshop of your Bot Projects.
  * Share the final version of your bot code in Github
  * Turn it in via Canvas
 
-### Friday, September 7
+### Friday, September 6
 **_Bot Projects Due_**
 Show off the final and best version of your bot. Be prepared to talk about your inspiration, your work process, and your revisions.
 
 <!--
+
 ## Week 3 
-### Monday, September 10
+### Monday, September 9
 Today you'll get to know your computer a little better, and I'll get you started with an introduction to Python.
 
-#### Goals
+#### Agenda
  * Learn some command-line basics
  * Set up your Python environment on your computer and/or in the cloud.
 
-#### Homework
+#### Next Steps
  * Keep working on and getting to know Python. If you have the _Exploratory Programming_ book, take a look at the first 2 or 3 chapters. If you'd prefer to learn from a web-based method, check out the tutorials at <a href="http://www.learnpython.org">learnpython.org</a>.
  * Read the introduction and first two chapters of _Virtual Muse_ (through page 27).
 
-### Wednesday, September 12
+### Wednesday, September 11
 We'll talk about poetry and go further into Python with some syntax lessons, including libraries and some fundamental control structures like `for` loops. I'll also show you how to work with the full text of books that you can find on [Project Gutenberg](http://www.gutenberg.org).
 
-#### Goals
+#### Agenda
+ * **Profiles: George Buckenham and Everest Pipkin**
  * Talk about poetry
  * Work with Project Gutenberg
  * Learn how to read and print the contents of a file
 
-#### Homework
+#### Next Steps
  * Read chapters 3 and 4 of _Virtual Muse_ (through page 53)
  
 
-### Friday, September 14
-CLASS CANCELED for "HURRICANE"
+### Friday, September 13
+More talking about poetry.
+
+#### Agenda
+ * Working with libraries in Python
+ * 
+
+#### Next Teps
+ * Read _Steal Like an Artist_
 
 ## Week 4
-### Monday, September 17
+### Monday, September 16
 Randomness in philosophy, poetry and Python.
 
-#### Goals
+#### Agenda
  * Discuss chapters 3 and 4 of _Virtual Muse_
  * Learn how to work with randomness in Python
 
@@ -118,9 +127,11 @@ Randomness in philosophy, poetry and Python.
  * Brainstorm some poetry ideas by preparing "pseudocode" for how your poems will work.
  * Look for interesting data sets that might become part of your poem, and share them in Slack.
 
-### Wednesday, September 19
-Working with text. 
+### Wednesday, September 18
+Working with text.
 
+#### Agenda
+ * **Profiles:** Ranjit Bhatnagar and Allison Parrish
 
 ### Friday, September 21
 Peer review workshop of your [Remix Projects](/creativecoding/projects/#project-remix). You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
@@ -311,4 +322,5 @@ Final review and reflection.
 ## Finals Week
 [**Final Portfolios Due**](/creativecoding/projects/#final-portfolio) 
 Our final exam is scheduled for Friday, December 14 from 8:30 - 11:00, so your final portfolios are due at 11:00. You **do not** need to attend this final exam or submit  your portfolio in person.
+
 -->
