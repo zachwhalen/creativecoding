@@ -48,6 +48,8 @@ This is the second day of class. You'll share the results of your web remixes, a
 This is the third day of class. [OK, that's the last time I'll do that] Today we'll discuss some of the things you've been learning about different kinds of bots and the pros and cons of different approaches. I'll show you how to create a Twitter account for your bot and lead you in brainstorming some ideas.
 
 #### Agenda
+ * Tour Github
+ * Demo some Twitter Bots
  * Create the Twitter account for your bot
  * Create some placeholder code for your bot in [_Cheap Bots Done Quick_](http://www.cheapbotsdonequick.com/).
 
@@ -77,6 +79,8 @@ Peer review workshop of your Bot Projects.
 ### Friday, September 6
 **_Bot Projects Due_**
 Show off the final and best version of your bot. Be prepared to talk about your inspiration, your work process, and your revisions.
+
+
 
 <!--
 
