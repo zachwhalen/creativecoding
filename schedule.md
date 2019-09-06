@@ -79,26 +79,29 @@ Peer review workshop of your Bot Projects.
 Show off the final and best version of your bot. Be prepared to talk about your inspiration, your work process, and your revisions.
 
 #### Next Steps
- * 
+ * Read _Virtual Muse_, chapters 1 and 2
+ * Find [a short poem](https://www.poets.org) you like, print or write it out so you can bring it to class  
 
 ## Week 3 
 ### Monday, September 9
 Today you'll get to know your computer a little better, and I'll get you started with an introduction to Python.
 
 #### Agenda
- * Learn some command-line basics
+ * Read the poems you brought
+ * Discuss the relationship between computers and poetry
  * Set up your Python environment on your computer and/or in the cloud.
+ * Learn some command-line and Python basics
 
 #### Next Steps
  * Keep working on and getting to know Python. If you have the _Exploratory Programming_ book, take a look at the first 2 or 3 chapters. If you'd prefer to learn from a web-based method, check out the tutorials at <a href="http://www.learnpython.org">learnpython.org</a>.
- * Read the introduction and first two chapters of _Virtual Muse_ (through page 27).
+ * Read _Steal like An Artist_, chapters 1 - 4.
 
 ### Wednesday, September 11
-We'll talk about poetry and go further into Python with some syntax lessons, including libraries and some fundamental control structures like `for` loops. I'll also show you how to work with the full text of books that you can find on [Project Gutenberg](http://www.gutenberg.org).
+We'll talk about poetry and go further into Python with some syntax lessons, including libraries and some fundamental control structures like conditionals and `for` loops. I'll also show you how to work with the full text of books that you can find on [Project Gutenberg](http://www.gutenberg.org).
 
 #### Agenda
  * **Profiles: George Buckenham and Everest Pipkin**
- * Talk about poetry
+ * Talk about poetry and "stealing"
  * Work with Project Gutenberg
  * Learn how to read and print the contents of a file
 
@@ -111,31 +114,31 @@ More talking about poetry.
 
 #### Agenda
  * Working with libraries in Python
- * 
 
-#### Next Teps
- * Read _Steal Like an Artist_
+#### Next Steps
+ * Read _Steal Like an Artist_, chapters 5 - 10.
 
 ## Week 4
 ### Monday, September 16
-Randomness in philosophy, poetry and Python.
+Randomness in philosophy, poetry and Python. Working with text.
 
 #### Agenda
  * Discuss chapters 3 and 4 of _Virtual Muse_
  * Learn how to work with randomness in Python
 
-#### Homework
+#### Next Steps
  * Brainstorm some poetry ideas by preparing "pseudocode" for how your poems will work.
- * Look for interesting data sets that might become part of your poem, and share them in Slack.
+ * Look for interesting data sets that might become part of your poem, and share them in Discord.
 
 ### Wednesday, September 18
-Working with text.
+ You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
 
 #### Agenda
  * **Profiles:** Ranjit Bhatnagar and Allison Parrish
+ * Peer review workshop of your **Poetry Projects**.
 
 ### Friday, September 20
-Peer review workshop of your [Remix Projects](/creativecoding/projects/#project-remix). You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
+**Poetry** projects are due.
 
 <!--
 
