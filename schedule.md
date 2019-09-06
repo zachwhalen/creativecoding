@@ -58,8 +58,6 @@ This is the third day of class. [OK, that's the last time I'll do that] Today we
  * Work on your bot; get it ready for the workshop
  * Read ["A protest bot is a bot so specific you can't mistake it for bullshit"](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa) by Mark Sample
 
-
-
 ## Week 2 
 ### Monday, September 2
 NO CLASS BECAUSE IT'S LABOR DAY
@@ -80,9 +78,8 @@ Peer review workshop of your Bot Projects.
 **_Bot Projects Due_**
 Show off the final and best version of your bot. Be prepared to talk about your inspiration, your work process, and your revisions.
 
-
-
-<!--
+#### Next Steps
+ * 
 
 ## Week 3 
 ### Monday, September 9
@@ -137,9 +134,10 @@ Working with text.
 #### Agenda
  * **Profiles:** Ranjit Bhatnagar and Allison Parrish
 
-### Friday, September 21
+### Friday, September 20
 Peer review workshop of your [Remix Projects](/creativecoding/projects/#project-remix). You should have a complete, working draft of your idea ready to run and share with your colleagues in a small-group review session.
 
+<!--
 
 ## Week 5
 ### Monday, September 24

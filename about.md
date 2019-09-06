@@ -116,8 +116,48 @@ The [Office of Disability Resources](https://academics.umw.edu/disability/) has 
 
 If you have not made contact with the Office of Disability Resources and have reasonable accommodation needs, (note taking assistance, extended time for tests, etc.), I will be happy to refer you. The office will require appropriate documentation of disability.
 
+### Recording Policy
+Classroom activities in this course may be recorded by students enrolled in the course for the
+personal, educational use of that student or for all students presently enrolled in the class only,
+and may not be further copied, distributed, published or otherwise used for any other purpose
+without the express written consent of the course instructor. All students are advised that
+classroom activities may be taped by students for this purpose. Distribution or sale of class
+recordings is prohibited without the written permission of the instructor and other students who
+are recorded. Distribution without permission is a violation of copyright law. This policy is
+consistent with UMW’s [Policy on Recording Class and Distribution of Course Materials](https://www.boarddocs.com/va/umw/Board.nsf/goto?open&id=ATZSXG724B54).
+
 ### Title IX
 University of Mary Washington faculty are committed to supporting students and upholding the University’s Policy on Sexual and Gender Based Harassment and Other Forms of Interpersonal Violence.  Under Title IX and this Policy, discrimination based upon sex or gender is prohibited.  If you experience an incident of sex or gender-based discrimination, we encourage you to report it.  While you may talk to me, understand that as a “Responsible Employee” of the University, I MUST report to UMW’s Title IX Coordinator what you share.  If you wish to speak to someone confidentially, please contact the below confidential resources.  They can connect you with support services and help you explore your options.  You may also seek assistance from UMW’s Title IX Coordinator.  Please visit http://diversity.umw.edu/title-ix/ to view UMW’s Policy on Sexual and Gender Based Harassment and Other Forms of Interpersonal Violence and to find further information on support and resources.  
+
+#### Resources
+Stefanie Lucas-Waverly, M.S. 
+Title IX Coordinator 
+Office of Title IX
+Fairfax House 
+540-654-5656 
+slucaswa@umw.edu
+
+Crystal Rawls 
+Title IX Deputy for Students 
+Assistant Director of Student Activities 
+540-654-1801
+crawls@umw.edu
+
+#### Confidential Resources
+_On-Campus_
+Talley Center for Counselling Services
+Lee Hall 106, 540-654-1053
+
+Student Health Center
+Lee Hall 112, 540-654-1040
+
+_Off-Campus_
+Empowerhouse
+24-hr hotline: 540-373-9373
+
+Rappahannock Council Against Sexual
+Assault (RCASA)
+24-hr hotline: 540-371-1666
 
 ### Basic Needs
 If you have difficulty affording groceries or accessing sufficient food to eat every day, or if you lack a safe and stable place to live, and you believe this may affect your performance in this course, please contact Cedric Rucker, Dean of Student Life, for support. Additionally, please talk to me if you are comfortable doing so. This will enable me to provide any resources I may possess.
