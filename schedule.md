@@ -106,8 +106,8 @@ We'll talk about poetry and go further into Python with some syntax lessons, inc
  * Learn how to read and print the contents of a file
 
 #### Next Steps
- * Read chapters 3 and 4 of _Virtual Muse_ (through page 53)
- 
+ * Read chapter 3 of _Virtual Muse_ (through page 53)
+ * Read chapter 3, "Anticipating Instability", from _Uncreative Writing_
 
 ### Friday, September 13
 More talking about poetry.
