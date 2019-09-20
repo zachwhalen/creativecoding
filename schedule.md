@@ -140,6 +140,14 @@ Randomness in philosophy, poetry and Python. Working with text.
 ### Friday, September 20
 **Poetry** projects are due.
 
+#### Agenda
+ * Share your poems.
+
+#### Next Steps
+ * Learn about glitch art starting with [this article](http://www.themachinestarts.com/read/2012-08-feedback-white-noise-and-glitches-cyberspace-strikes-back), [this documentary](http://www.youtube.com/watch?v=gr0yiOyvas4) and [this manifesto](http://art310-f12-hoy.wikispaces.umb.edu/file/view/Glitch+Studies+Manifesto+rewrite+for+Video+Vortex+2+reader.pdf)
+
+## Week 5 
+
 <!--
 
 ## Week 5
