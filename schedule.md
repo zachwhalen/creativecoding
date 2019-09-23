@@ -147,6 +147,31 @@ Randomness in philosophy, poetry and Python. Working with text.
  * Learn about glitch art starting with [this article](https://web.archive.org/web/20180724163536/http://www.themachinestarts.com/read/2012-08-feedback-white-noise-and-glitches-cyberspace-strikes-back), [this documentary](http://www.youtube.com/watch?v=gr0yiOyvas4) and [this manifesto](https://beyondresolution.nyc3.digitaloceanspaces.com/_Rosa%20Menkman%20-%20Glitch%20Studies%20Manifesto.pdf)
 
 ## Week 5 
+### Monday, September 23
+Getting started with glitch art.
+#### Agenda
+ * Databending JPGs with text editors
+
+### Wednesday, September 25
+
+#### Agenda
+ * **Profiles:** Jackson Mac Low and <a href="http://www.glia.ca/">David Jhave Johnston</a>
+ * Databending with Audacity
+
+### Friday, September 27
+ * Datamoshing with avidemux and tomato.py
+
+
+## Week 6
+### Monday, September 30
+ * Pixel sorting with Python
+
+### Wednesday, October 2
+ * **Profiles**: Aram Saroyan and bpNichol 
+ * Workshop
+
+### Friday, October 4
+ * Glitch Gallery Due
 
 <!--
 
