@@ -171,7 +171,7 @@ Getting started with glitch art.
  * Workshop
 
 ### Friday, October 4
- * Glitch Gallery Due
+ * **Glitch Gallery Due**
 
 <!--
 
