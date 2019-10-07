@@ -152,6 +152,9 @@ Getting started with glitch art.
 #### Agenda
  * Databending JPGs with text editors
 
+#### Next Steps
+ * Find a glitch in the wild and share it in Discord
+
 ### Wednesday, September 25
 
 #### Agenda
@@ -172,6 +175,38 @@ Getting started with glitch art.
 
 ### Friday, October 4
  * **Glitch Gallery Due**
+
+
+## Week 9
+### Monday, October 7
+Getting started with p5.js and the screensaver project
+#### Agenda
+ * Sign in to `editor.p5js.org`
+ * Create a sketch
+ * Make a drawing of a scene, a house, or a stick figure
+
+#### Next Steps
+ * Read about [the p5js community](https://p5js.org/community/)
+ * Learn about [the history of screensavers](http://www.slate.com/articles/technology/future_tense/2017/07/a_farewell_to_screen_savers_the_imagined_dreams_of_our_machines.html)
+ * Watch and play along with some more [Coding Train videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (1.1 - 1.6)
+
+### Wednesday, October 9
+Working through the fundamentals of the P5.js web editor and brainstorming some screensavers.
+
+#### Agenda
+ * **Profiles**: Nick Montfort, thricedotted
+ * Start sketching your screensaver idea.
+
+#### Next Steps
+ * Watch and work along with the 2.x series of [Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) videos on animation basics and built-in functions
+
+### Friday, October 11
+#### Agenda
+ * Work through ideas in class
+
+#### Next Steps
+ * Watch and work along with the 3.x series of [Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) videos on conditionals, logic, and interactivity
+
 
 <!--
 
