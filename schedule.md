@@ -177,7 +177,7 @@ Getting started with glitch art.
  * **Glitch Gallery Due**
 
 
-## Week 9
+## Week 7
 ### Monday, October 7
 Getting started with p5.js and the screensaver project
 #### Agenda
